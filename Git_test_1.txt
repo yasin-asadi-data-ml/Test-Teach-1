@@ -1,1 +1,2 @@
-hi
+hi, the 1st line 
+hi, the 2nd line 
