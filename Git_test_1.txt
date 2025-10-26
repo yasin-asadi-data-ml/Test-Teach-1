@@ -13,12 +13,13 @@ hi, the 14th line
 hi, the 15th line
 hi, the 16th line
 hi, the 17th line
-hi, the 18th line
+
+
 hi, the 19th line
 hi, the 20th line
 hi, the 21st line
 hi, the 22nd line
-hi, the 23rd line
+
 hi, the 24th line
 hi, the 25th line
 
