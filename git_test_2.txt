@@ -1,0 +1,2 @@
+second file is created
+first line of second file is written.
