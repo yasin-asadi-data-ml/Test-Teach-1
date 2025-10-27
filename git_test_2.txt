@@ -9,23 +9,5 @@ seventh line of second file is written.
 eighth line of second file is written.
 ninth line of second file is written.
 tenth line of second file is written.
-eleventh line of second file is written.
-twelfth line of second file is written.
-thirteenth line of second file is written.
-fourteenth line of second file is written.
-fifteenth line of second file is written.
 
-
-sixteenth line of second file is written.
-seventeenth line of second file is written.
-eighteenth line of second file is written.
-nineteenth line of second file is written.
-twentieth line of second file is written.
-twenty-first line of second file is written.
-twenty-second line of second file is written.
-twenty-third line of second file is written.
-twenty-fourth line of second file is written.
-twenty-fifth line of second file is written.
-twenty-sixth line of second file is written.
-twenty-seventh line of second file is written.
-twenty-eighth line of second file is written.
+end of file.
